@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import { Shop, Item } from '../../src/gilded_rose';
+import { Shop, Item } from '../src/gilded_rose';
 
 describe('Gilded Rose', () => {
   const names = [
